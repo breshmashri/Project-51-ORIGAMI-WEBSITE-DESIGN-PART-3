@@ -63,3 +63,8 @@
 h3{
     text-align: center;
 }
+
+.origami{
+    border: solid;
+    border-color: black;
+}
